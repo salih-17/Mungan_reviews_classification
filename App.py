@@ -125,7 +125,7 @@ about = """
 <li>University: SELÇUK ÜNİVERSİTESİ</li>
 <li>Email: <a href="ahmet_mungan@gmail.com" target="_blank" rel="noopener noreferrer">ahmet_mungan@gmail.com</a></li>
 </ul>
-<p><strong>Arş. Gör. Musa DOĞAN</strong> (Guide):</p>
+<p><strong>Arş. Gör. Musa DOĞAN ssy</strong> (Guide):</p>
 <ul>
 <li>Department: BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ </li>
 <li>University: SELÇUK ÜNİVERSİTESİ</li>
