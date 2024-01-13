@@ -119,17 +119,17 @@ paragraph2 = """
 """
 
 about = """
-<p><strong>Maysara Mazin Alsaad&nbsp;</strong>(PhD Candidate):</p>
+<p><strong>Ahmet Mungan&nbsp;</strong>(Bachelor Candidate):</p>
 <ul>
-<li>Department: Computer Science</li>
-<li>University: Gujarat University, Ahmedabad, India.</li>
-<li>Email: <a href="mailto:maysara@gujaratuniversity.ac.in" target="_blank" rel="noopener noreferrer">maysara@gujaratuniversity.ac.in</a></li>
+<li>Department: BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ </li>
+<li>University: SELÇUK ÜNİVERSİTESİ</li>
+<li>Email: <a href="ahmet_mungan@gmail.com" target="_blank" rel="noopener noreferrer">ahmet_mungan@gmail.com</a></li>
 </ul>
-<p><strong>Prof. Dr. Hiren Joshi</strong> (Guide):</p>
+<p><strong>Arş. Gör. Musa DOĞAN</strong> (Guide):</p>
 <ul>
-<li>Department: Computer Science</li>
-<li>University: Gujarat University, Ahmedabad, India.</li>
-<li>Email:&nbsp;<a href="mailto:hdjoshi@gujaratuniversity.ac.in" target="_blank" rel="noopener noreferrer">hdjoshi@gujaratuniversity.ac.in</a></li>
+<li>Department: BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ </li>
+<li>University: SELÇUK ÜNİVERSİTESİ</li>
+<li>Email:&nbsp;<a href="Musa@gujaratuniversity.ac.in" target="_blank" rel="noopener noreferrer">Musa@gujaratuniversity.ac.in</a></li>
 </ul>
 <p>&nbsp;</p>
 """
